@@ -1,2 +1,2 @@
-# Responsive-Resume-using-CSS-Grid
+# Portfolio - CV (Resume)
 Use HTML , CSS
